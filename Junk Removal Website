@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scott McConnell - WE GOT THIS JUNK REMOVAL</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #4CAF50;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Scott McConnell</h1>
+    <h2>WE GOT THIS JUNK REMOVAL</h2>
+    <p>Certified with the Better Business Bureau</p>
+</header>
+
+<div class="container">
+    <div class="section" id="about">
+        <h2>About Me</h2>
+        <p>Welcome to WE GOT THIS JUNK REMOVAL, where we specialize in making your space clean and clutter-free. I am Scott McConnell, and I run this business with a commitment to providing top-notch junk removal services. With certification from the Better Business Bureau, we ensure professionalism and reliability in every job we undertake.</p>
+    </div>
+
+    <div class="section" id="services">
+        <h2>Our Services</h2>
+        <p>We offer a wide range of services to cater to both commercial and residential needs, including:</p>
+        <ul>
+            <li>Estate Cleanouts</li>
+            <li>Hoarding Removal</li>
+            <li>Construction Debris Removal</li>
+            <li>Commercial and Residential Junk Removal</li>
+            <li>Appliance Transport</li>
+        </ul>
+        <p>Note: We do not remove hazardous materials.</p>
+    </div>
+
+    <div class="section" id="contact">
+        <h2>Contact Us</h2>
+        <p>If you need our services or have any questions, feel free to reach out:</p>
+        <ul>
+            <li>Email: <a href="mailto:info@wegothisjunkremoval.com">info@wegothisjunkremoval.com</a></li>
+            <li>Phone: (123) 456-7890</li>
+            <li>Address: 123 Junk Removal Lane, Clean City, ST 12345</li>
+        </ul>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Scott McConnell - WE GOT THIS JUNK REMOVAL. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
